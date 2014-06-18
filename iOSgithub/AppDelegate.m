@@ -8,6 +8,8 @@
 
 #import "AppDelegate.h"
 
+//"Hello world"
+
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
